@@ -1,0 +1,6 @@
+require_relative 'Die'
+require_relative 'DiceSet'
+require_relative 'Player'
+require_relative 'Turn'
+require_relative 'Game'
+require_relative 'AutoDropDead'
